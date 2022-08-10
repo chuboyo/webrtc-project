@@ -1,0 +1,24 @@
+{
+  "name": "video-chat",
+  "version": "1.0.0",
+  "description": "A Video Chat Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ajay, modified by chuboyo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "socket.io": "^3.1.2",
+    "socket.io-client": "^4.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chuboyo/webrtc-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chuboyo/webrtc-project/issues"
+  },
+  "homepage": "https://github.com/chuboyo/webrtc-project#readme"
+}
