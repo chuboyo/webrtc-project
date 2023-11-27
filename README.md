@@ -6,8 +6,8 @@ The front end is pure HTML,CSS,Javascript. The Backend is in Node.js.
 
 Steps to run
 
-Clone the repository
-Cd Video-Chat-main
-Dependencies are all pushed along with the code so you don't need npm install
-Run node index.js
+1. Clone the repository
+2. Cd Video-Chat-main
+3. Dependencies are all pushed along with the code so you don't need npm install
+4. Run node index.js
 There is a second branch to this repository that contains the upgraded version of this video chat application with added buttons like mute, hide camera and leave room.# webrtc-project
